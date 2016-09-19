@@ -25,3 +25,6 @@
 [submodule "weit896_AlgoSims2016"]
 	path = weit896_AlgoSims2016
 	url = https://github.com/monkbysea/weit896_AlgoSims2016
+[submodule "Vishaal_AlgoSims2016"]
+	path = Vishaal_AlgoSims2016
+	url = https://github.com/vishaalravikumar/Vishaal_AlgoSims2016
