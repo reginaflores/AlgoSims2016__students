@@ -13,3 +13,6 @@
 [submodule "cotta074_algosims2016"]
 	path = cotta074_algosims2016
 	url = https://github.com/thatcotter/cotta074_algosims2016
+[submodule "suny030_AlgoSims2016"]
+	path = suny030_AlgoSims2016
+	url = https://github.com/qishisuicong/suny030_AlgoSims2016
