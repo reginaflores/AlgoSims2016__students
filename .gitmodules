@@ -7,3 +7,6 @@
 [submodule "leet107_algosims2016"]
 	path = leet107_algosims2016
 	url = https://github.com/thevivs/leet107_algosims2016
+[submodule "hud092_AlgoSims2016"]
+	path = hud092_AlgoSims2016
+	url = https://github.com/DanliHu/hud092_AlgoSims2016
