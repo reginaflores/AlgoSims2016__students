@@ -22,3 +22,6 @@
 [submodule "ASHEN733_AlgoSims2016"]
 	path = ASHEN733_AlgoSims2016
 	url = https://github.com/nyantee/ASHEN733_AlgoSims2016.git
+[submodule "weit896_AlgoSims2016"]
+	path = weit896_AlgoSims2016
+	url = https://github.com/monkbysea/weit896_AlgoSims2016
