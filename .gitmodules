@@ -4,3 +4,6 @@
 [submodule "liq529_AlgoSims2016"]
 	path = liq529_AlgoSims2016
 	url = https://github.com/krisliqc/liq529_AlgoSims2016
+[submodule "leet107_algosims2016"]
+	path = leet107_algosims2016
+	url = https://github.com/thevivs/leet107_algosims2016
