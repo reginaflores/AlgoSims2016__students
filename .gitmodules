@@ -19,3 +19,6 @@
 [submodule "fortugnn_AlgoSims2106"]
 	path = fortugnn_AlgoSims2106
 	url = https://github.com/teacow2/fortugnn_AlgoSims2106
+[submodule "ASHEN733_AlgoSims2016"]
+	path = ASHEN733_AlgoSims2016
+	url = https://github.com/nyantee/ASHEN733_AlgoSims2016.git
