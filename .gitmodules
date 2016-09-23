@@ -28,3 +28,6 @@
 [submodule "Vishaal_AlgoSims2016"]
 	path = Vishaal_AlgoSims2016
 	url = https://github.com/vishaalravikumar/Vishaal_AlgoSims2016
+[submodule "ashen733__AlgoSims2016"]
+	path = ashen733__AlgoSims2016
+	url = https://github.com/nyantee/ashen733__AlgoSims2016
