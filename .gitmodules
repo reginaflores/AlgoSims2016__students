@@ -34,3 +34,6 @@
 [submodule "podia270_AlgoSims2016"]
 	path = podia270_AlgoSims2016
 	url = https://github.com/sunnythedude/podia270_AlgoSims2016.git
+[submodule "chesj445_AlgoSims2016"]
+	path = chesj445_AlgoSims2016
+	url = https://github.com/jeanachesnik/chesj445_AlgoSims2016
